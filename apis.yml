@@ -1,8 +1,11 @@
 aid: eclipse-foods
 name: Eclipse Foods
-description: 'Eclipse Foods is a company surfaced as a portfolio company of initialized-capital and added
-  to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Eclipse Foods is a Berkeley, California plant-based food company making non-dairy ice cream
+  and soft-serve engineered from cassava, corn, rapeseed, and potato to replicate the taste and texture of
+  traditional dairy. Marketed as chef-crafted (co-founder brings 16-Michelin-Star kitchen experience) and
+  sold in gallon tubs and soft-serve mixes to consumers and foodservice operators. Backed by Initialized
+  Capital. This is a consumer/CPG brand with a WordPress marketing storefront and no public developer API;
+  the profile captures its web identity, published llms.txt, and domain-security posture.'
 url: https://raw.githubusercontent.com/api-evangelist/eclipse-foods/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +13,29 @@ x-backed-by:
 - initialized-capital
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://eclipsefoods.com/wp-content/uploads/2023/12/Eclipse-1-1024x576.png
 tags:
 - Company
 - Consumer
+- Food and Beverage
+- Plant-Based
+- CPG
+- Non-Dairy
+- Foodservice
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +43,22 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/eclipse-foods-domain-security.yml
+- type: LLMsTxt
+  url: llms/eclipse-foods-llms.txt
 - type: Website
   url: https://eclipsefoods.com/
+- type: Blog
+  url: https://eclipsefoods.com/blog/
+- type: Support
+  url: https://eclipsefoods.com/contact/
+- type: PrivacyPolicy
+  url: https://eclipsefoods.com/privacy-policy/
+- type: TermsOfService
+  url: https://eclipsefoods.com/terms/
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

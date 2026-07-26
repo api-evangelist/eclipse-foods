@@ -1,0 +1,24 @@
+# Non-Dairy Ice Cream - Eclipse Foods
+
+> 
+> Last updated: 2026-07-17
+
+## Search
+
+- Search URL: `https://eclipsefoods.com?s={query}`
+
+## Recent Content
+
+- [Cookie Policy](https://eclipsefoods.com/cookie-policy/): Please wait while the policy is loaded. If it does not load, please click here to view the policy.
+- [Disclaimer](https://eclipsefoods.com/disclaimer/): Please wait while the policy is loaded. If it does not load, please click here to view the policy.
+- [impact](https://eclipsefoods.com/impact/): [addtoany]
+- [Eclipse Foods Co. Virtual Patent Marking](https://eclipsefoods.com/patents/): Effective July 15, 2025 Eclipse Foods Co. products are protected by patents in the United States and other jurisdictions. This website is provided to satisfy the virtual patent marking provisions of applicable law, including the virtual patent marking provisions of the America Invents Act. Eclipse Foods Co. products, and products derived therefrom, are protected by ... Read more
+- [What Is Low Erucic Acid Rapeseed Oil and Why Do We Use It?](https://eclipsefoods.com/blog/what-is-low-erucic-acid-rapeseed-oil-and-why-do-we-use-it/): Low erucic acid rapeseed oil is one of the most widely used oils in the world and one of the healthiest, but it often flies under the radar. That’s probably because you know it by a more familiar name: canola oil. We know this oil can be misunderstood, but the expeller-pressed, non-GMO version we use ... Read more
+
+## Complete Sitemap
+
+For a comprehensive list of all URLs, see: https://eclipsefoods.com/sitemaps.xml
+
+---
+
+*This file is dynamically generated and highlights our most important content.*
